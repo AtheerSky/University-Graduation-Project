@@ -33,10 +33,10 @@ The research paper resulting from this project was published in *Engineering, Te
 ## Project Team:
 This project was completed as a university graduation project by:
 
-- [Atheer]
-- [Jumana]
-- [Dana]
-- [Amani]
+- Atheer
+- Jumana
+- Dana
+- Amani
 
 ## Technologies: 
 - Python
