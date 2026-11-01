@@ -1,6 +1,6 @@
-#Moar: A Swimmer Motion Swimming Style Identification Model using Deep Learning
+# Moar: A Swimmer Motion Swimming Style Identification Model using Deep Learning
 
-##Project Overview:
+## Project Overview:
 Moar is a university graduation project focused on applying deep learning and computer vision to swimmer movement analysis.
 
 The project explores the use of YOLOv8 for detecting swimming styles and identifying incorrect swimming movements from video footage. 
