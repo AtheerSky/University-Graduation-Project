@@ -25,7 +25,7 @@ The dataset used in this project is hosted on Roboflow Universe.
 - **License:** [CC BY 4.0]
 
 ## Research Publication:
-[The research paper resulting from this project was published in *Engineering, Technology & Applied Science Research (ETASR)* in 2025.](https://www.etasr.com/index.php/ETASR/article/view/9309)
+[The research paper](https://www.etasr.com/index.php/ETASR/article/view/9309)resulting from this project was published in *Engineering, Technology & Applied Science Research (ETASR)* in 2025.
 
 
 ## Project Team:
